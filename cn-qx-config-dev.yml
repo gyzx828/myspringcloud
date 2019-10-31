@@ -1,2 +1,4 @@
-server
-     port:9080
+server:
+    port:9080
+zx:
+    info:hello,world!
